@@ -23,7 +23,9 @@ To get the application running, follow these steps:
     Clone this repository to your local machine.
 
     ```bash
-    git clone <repository-url>
+    git clone git@github.com:TheAttentionSeeker5050/dotnet-jenkins-user-page.git
+    # or
+    git clone https://github.com/TheAttentionSeeker5050/dotnet-jenkins-user-page.git
     ```
 
 2. **Start Jenkins**
